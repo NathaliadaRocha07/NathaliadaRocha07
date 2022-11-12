@@ -1,6 +1,4 @@
  ## _Oi_ 👋
-- 🌱 _I’m currently a student at Senac college_
-
 
 <div align="center">
   <a href="https://github.com/NathaliadaRocha07">
